@@ -3,10 +3,10 @@ title: vcpkg 设置景象代理
 tags:
   - github
   - vcpkg
-  - c++
+  - c/c++
 categories:
   - 开发
-  - c++
+  - c/c++
 keywords: 'github,vcpkg,c++'
 description: "GitHub是目前全球最大的开源代码库之一。但是因为国内经常访问不了Github,或者访问速度慢，导致国内机器无法拉取项目部署，解决这些问题可以通以下国内镜像，来提高访问速度。"
  

@@ -4,10 +4,10 @@ tags:
   - vscode
   - vs
   - vcpkg
-  - c++
+  - c/c++
 categories:
   - 开发
-  - c++
+  - c/c++
 keywords: 'vscode,vcpkg,c++,vs'
 description: '针对vscode,vs 等编辑器实现对cmake、vcpkg的集成，实现cmake编译系统的一键下载第三方依赖包、编译。'
 abbrlink: 8694

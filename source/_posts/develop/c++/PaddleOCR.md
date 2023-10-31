@@ -4,10 +4,10 @@ tags:
   - PaddleOCR
   - AI
   - 图片识别
-  - c++
+  - c/c++
 categories:
   - 开发
-  - c++
+  - c/c++
 keywords: 'AI,PaddleOCR,c++,图片识别'
 description: 'PaddleOCR旨在打造一套丰富、领先、且实用的OCR工具库，助力开发者训练出更好的模型，并应用落地。本章节介绍PaddleOCR
   模型的C++部署方法。C++在性能计算上优于Python，因此，在大多数CPU、GPU部署场景，多采用C++的部署方式，本节将介绍如何在Linux

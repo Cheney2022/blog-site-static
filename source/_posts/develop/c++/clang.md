@@ -2,10 +2,10 @@
 title: linux 设置clang 为默认编译器
 tags:
   - clang
-  - c++
+  - c/c++
 categories:
   - 开发
-  - c++
+  - c/c++
 keywords: 'clang,c++'
 description: "linux 设置clang 为默认编译器"
 abbrlink: 3301
